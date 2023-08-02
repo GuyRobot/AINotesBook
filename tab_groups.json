@@ -9,154 +9,189 @@
             "iconViewType": "main-squares",
             "tabs": [
                 {
-                    "url": "https://app.unweave.io/",
-                    "title": "Unweave",
-                    "id": 2
-                },
-                {
-                    "url": "https://github.com/lm-sys/FastChat#FastChat-T5",
-                    "title": "lm-sys/FastChat: An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
-                    "id": 3
-                },
-                {
-                    "url": "https://www.kaggle.com/nguyentrungtam/bartchat/edit",
-                    "title": "BARTChat | Kaggle",
-                    "id": 4
-                },
-                {
-                    "url": "https://www.kaggle.com/nguyentrungtam/gptchat/edit",
-                    "title": "GPTChat | Kaggle",
-                    "id": 5
-                },
-                {
-                    "url": "https://www.kaggle.com/code/kreeshrajani/fine-tune-t5-for-conversational-model/notebook",
-                    "title": "Fine-Tune T5 🤗 for Conversational Model | Kaggle",
-                    "id": 6
-                },
-                {
-                    "url": "https://duarteocarmo.com/blog/fine-tune-flan-t5-telegram",
-                    "title": "Fine-tuning FLAN-T5 to replace my friends - Duarte O.Carmo",
-                    "id": 7
-                },
-                {
-                    "url": "https://www.thepythoncode.com/article/conversational-ai-chatbot-with-huggingface-transformers-in-python",
-                    "title": "Conversational AI Chatbot with Transformers in Python - Python Code",
-                    "id": 8
-                },
-                {
-                    "url": "https://huggingface.co/databricks/dolly-v2-12b",
-                    "title": "databricks/dolly-v2-12b · Hugging Face",
-                    "id": 9
-                },
-                {
-                    "url": "https://huggingface.co/satvikag/chatbot?text=Hi.",
-                    "title": "satvikag/chatbot · Hugging Face",
-                    "id": 10
-                },
-                {
-                    "url": "https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/summarization-tf.ipynb",
-                    "title": "Summarization - Colaboratory",
-                    "id": 11
-                },
-                {
-                    "url": "https://github.com/huggingface/transformers/blob/main/examples/pytorch/summarization/README.md",
-                    "title": "💤 transformers/examples/pytorch/summarization/README.md at main · huggingface/transformers",
-                    "id": 12
-                },
-                {
-                    "url": "https://huggingface.co/learn/nlp-course/chapter7/5?fw=pt#summarization",
-                    "title": "Summarization - Hugging Face NLP Course",
-                    "id": 13
-                },
-                {
-                    "url": "https://huggingface.co/docs/transformers/model_doc/bart",
-                    "title": "💤 BART",
-                    "id": 14
-                },
-                {
-                    "url": "https://colab.research.google.com/github/GuyRobot/AINotesBook/blob/main/MyBART.ipynb#scrollTo=xrRMvk-GukJI",
+                    "url": "https://colab.research.google.com/github/GuyRobot/AINotesBook/blob/main/MyBART.ipynb#scrollTo=NPyW6RDjiIFs",
                     "title": "MyBART.ipynb - Colaboratory",
-                    "id": 15
-                },
-                {
-                    "url": "https://huggingface.co/settings/tokens",
-                    "title": "💤 Hugging Face – The AI community building the future.",
-                    "id": 16
-                },
-                {
-                    "url": "https://huggingface.co/models?sort=trending&search=bart-small",
-                    "title": "Models - Hugging Face",
-                    "id": 17
-                },
-                {
-                    "url": "https://discuss.huggingface.co/t/fine-tuning-bert-with-sequences-longer-than-512-tokens/12652/7",
-                    "title": "💤 Fine-tuning BERT with sequences longer than 512 tokens - Models - Hugging Face Forums",
-                    "id": 18
-                },
-                {
-                    "url": "https://huggingface.co/transformers/v2.11.0/model_doc/bart.html#paper",
-                    "title": "Bart — transformers 2.11.0 documentation",
-                    "id": 19
-                },
-                {
-                    "url": "https://arxiv.org/pdf/1910.13461.pdf",
-                    "title": "1910.13461.pdf",
-                    "id": 20
+                    "id": 2
                 },
                 {
                     "url": "https://colab.research.google.com/github/ncoop57/i-am-a-nerd/blob/master/_notebooks/2020-05-12-chatbot-part-1.ipynb#scrollTo=wIpXneEMhoxI",
                     "title": "💤 [Scratch 25] Open Dialog Chatbots for Learning New Languages [Part 1].ipynb - Colaboratory",
-                    "id": 21
-                },
-                {
-                    "url": "https://blog.gopenai.com/fine-tuning-dialogpt-medium-on-daily-dialog-dataset-a-step-by-step-guide-4eaecc1b9323",
-                    "title": "💤 Fine-Tuning DialoGPT-Medium on Daily Dialog Dataset: A Step-by-Step Guide | by Ahmed Ismail Khalid | May, 2023 | GoPenAI",
-                    "id": 22
-                },
-                {
-                    "url": "https://github.com/ncoop57/i-am-a-nerd/blob/master/_notebooks/2020-05-12-chatbot-part-1.ipynb",
-                    "title": "💤 i-am-a-nerd/_notebooks/2020-05-12-chatbot-part-1.ipynb at master · ncoop57/i-am-a-nerd · GitHub",
-                    "id": 23
-                },
-                {
-                    "url": "https://towardsdatascience.com/teaching-bart-to-rap-fine-tuning-hugging-faces-bart-model-41749d38f3ef",
-                    "title": "💤 Teaching BART to Rap: Fine-tuning Hugging Face’s BART Model | by Neil Sinclair | Towards Data Science",
-                    "id": 24
+                    "id": 3
                 },
                 {
                     "url": "https://colab.research.google.com/drive/1Cy27V-7qqYatqMA7fEqG2kgMySZXw9I4?usp=sharing&pli=1",
                     "title": "💤 BART Learns to Rap - Medium.ipynb - Colaboratory",
+                    "id": 4
+                },
+                {
+                    "url": "https://app.unweave.io/",
+                    "title": "Unweave",
+                    "id": 5
+                },
+                {
+                    "url": "https://github.com/lm-sys/FastChat#FastChat-T5",
+                    "title": "💤 lm-sys/FastChat: An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+                    "id": 6
+                },
+                {
+                    "url": "https://www.kaggle.com/nguyentrungtam/bartchat/edit",
+                    "title": "BARTChat | Kaggle",
+                    "id": 7
+                },
+                {
+                    "url": "https://www.kaggle.com/nguyentrungtam/gptchat/edit",
+                    "title": "GPTChat | Kaggle",
+                    "id": 8
+                },
+                {
+                    "url": "https://www.kaggle.com/code/kreeshrajani/fine-tune-t5-for-conversational-model/notebook",
+                    "title": "💤 Fine-Tune T5 🤗 for Conversational Model | Kaggle",
+                    "id": 9
+                },
+                {
+                    "url": "https://www.kaggle.com/nguyentrungtam/redditbert/edit",
+                    "title": "💤 RedditBERT | Kaggle",
+                    "id": 10
+                },
+                {
+                    "url": "https://www.kaggle.com/nguyentrungtam/dialogconversional/edit",
+                    "title": "💤 DialogConversional | Kaggle",
+                    "id": 11
+                },
+                {
+                    "url": "https://wandb.ai/authorize",
+                    "title": "Weights & Biases",
+                    "id": 12
+                },
+                {
+                    "url": "https://duarteocarmo.com/blog/fine-tune-flan-t5-telegram",
+                    "title": "Fine-tuning FLAN-T5 to replace my friends - Duarte O.Carmo",
+                    "id": 13
+                },
+                {
+                    "url": "https://www.thepythoncode.com/article/conversational-ai-chatbot-with-huggingface-transformers-in-python",
+                    "title": "💤 Conversational AI Chatbot with Transformers in Python - Python Code",
+                    "id": 14
+                },
+                {
+                    "url": "https://huggingface.co/databricks/dolly-v2-12b",
+                    "title": "databricks/dolly-v2-12b · Hugging Face",
+                    "id": 15
+                },
+                {
+                    "url": "https://huggingface.co/satvikag/chatbot?text=Hi.",
+                    "title": "satvikag/chatbot · Hugging Face",
+                    "id": 16
+                },
+                {
+                    "url": "https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/summarization-tf.ipynb",
+                    "title": "Summarization - Colaboratory",
+                    "id": 17
+                },
+                {
+                    "url": "https://github.com/huggingface/transformers/blob/main/examples/pytorch/summarization/README.md",
+                    "title": "💤 transformers/examples/pytorch/summarization/README.md at main · huggingface/transformers",
+                    "id": 18
+                },
+                {
+                    "url": "https://huggingface.co/learn/nlp-course/chapter7/5?fw=pt#summarization",
+                    "title": "Summarization - Hugging Face NLP Course",
+                    "id": 19
+                },
+                {
+                    "url": "https://huggingface.co/docs/transformers/model_doc/bart",
+                    "title": "💤 BART",
+                    "id": 20
+                },
+                {
+                    "url": "https://huggingface.co/models?pipeline_tag=conversational&sort=trending",
+                    "title": "💤 Models - Hugging Face",
+                    "id": 21
+                },
+                {
+                    "url": "https://huggingface.co/transformers/v2.11.0/model_doc/bart.html#paper",
+                    "title": "💤 Bart — transformers 2.11.0 documentation",
+                    "id": 22
+                },
+                {
+                    "url": "https://arxiv.org/pdf/1910.13461.pdf",
+                    "title": "1910.13461.pdf",
+                    "id": 23
+                },
+                {
+                    "url": "https://dagshub.com/kingabzpro/DailoGPT-RickBot/src/main/Training%20Model.ipynb",
+                    "title": "💤 kingabzpro/DailoGPT-RickBot | DagsHub",
+                    "id": 62
+                },
+                {
+                    "url": "https://github.com/rushic24/DialoGPT-Finetune",
+                    "title": "💤 rushic24/DialoGPT-Finetune: Covid Doctor chatbot using DialoGPT",
+                    "id": 60
+                },
+                {
+                    "url": "https://www.kaggle.com/code/pinooxd/dialogpt",
+                    "title": "💤 DialoGPT | Kaggle",
+                    "id": 61
+                },
+                {
+                    "url": "https://github.com/ncoop57/i-am-a-nerd/blob/master/_notebooks/2020-05-12-chatbot-part-1.ipynb",
+                    "title": "💤 i-am-a-nerd/_notebooks/2020-05-12-chatbot-part-1.ipynb at master · ncoop57/i-am-a-nerd · GitHub",
                     "id": 25
                 },
                 {
-                    "url": "https://github.com/GuyRobot/AINotesBook/blob/main/tab_groups.json",
-                    "title": "AINotesBook/tab_groups.json at main · GuyRobot/AINotesBook",
-                    "id": 1
+                    "url": "https://towardsdatascience.com/teaching-bart-to-rap-fine-tuning-hugging-faces-bart-model-41749d38f3ef",
+                    "title": "💤 Teaching BART to Rap: Fine-tuning Hugging Face’s BART Model | by Neil Sinclair | Towards Data Science",
+                    "id": 26
                 },
                 {
-                    "url": "https://colab.research.google.com/github/GuyRobot/AINotesBook/blob/main/GPT2Chat.ipynb#scrollTo=TxQobU6DeVZ5",
-                    "title": "GPT2Chat.ipynb - Colaboratory",
+                    "url": "https://github.com/GuyRobot/AINotesBook/edit/main/tab_groups.json",
+                    "title": "Editing AINotesBook/tab_groups.json at main · GuyRobot/AINotesBook",
                     "id": 37
                 },
                 {
-                    "url": "https://colab.research.google.com/drive/1UYIzU3MsAk7kQIZuGPZTQtpIhzkRRyLa",
-                    "title": "FlanT5 - Colaboratory",
-                    "id": 38
+                    "url": "https://guyrobot-super-duper-memory-jq6777qpq6xhpjpj.github.dev/",
+                    "title": "💤 EHealthChatDataset.json - AINotesBook [Codespaces] - Visual Studio Code",
+                    "id": 1
                 },
                 {
-                    "url": "https://colab.research.google.com/drive/1NvJerKjD0oQX2QSElPevLETcH46HLiea#scrollTo=N3A2aUtUetmZ",
-                    "title": "BARTChatbot - Colaboratory",
+                    "url": "https://justdoc.com/question/Chest-pain-reappears-when-stopped-Levocet",
+                    "title": "Levocetirizine For Chest Congestion - JustDoc",
                     "id": 39
+                },
+                {
+                    "url": "https://www.kaggle.com/datasets/cdc/chronic-disease",
+                    "title": "Search | Kaggle",
+                    "id": 66
+                },
+                {
+                    "url": "https://huggingface.co/blog/how-to-train",
+                    "title": "How to train a new language model from scratch using Transformers and Tokenizers",
+                    "id": 58
+                },
+                {
+                    "url": "https://huggingface.co/docs/transformers/main_classes/trainer",
+                    "title": "Trainer",
+                    "id": 59
+                },
+                {
+                    "url": "https://forumhealth.com/blog/feeling-hangry-these-tips-will-help-keep-your-blood-sugar-in-check/",
+                    "title": "Feeling Hangry? These Tips Will Help Keep Your Blood Sugar in Check - Forum Health",
+                    "id": 73
+                },
+                {
+                    "url": "https://www.medhelp.org/forums/Diabetes-Type-1/show/220",
+                    "title": "Diabetes - Type 1 Help - Forums and Discussions - MedHelp",
+                    "id": 74
+                },
+                {
+                    "url": "https://patient.info/forums/discuss/browse/allergic-disorders-219",
+                    "title": "Allergic Disorders | Allergies | Forums | Patient",
+                    "id": 75
                 },
                 {
                     "url": "moz-extension://b155d803-17aa-402f-8326-b62e5cfe9f0e/options/options.html",
                     "title": "Settings",
-                    "id": 58
-                },
-                {
-                    "url": "moz-extension://b155d803-17aa-402f-8326-b62e5cfe9f0e/manage/manage.html",
-                    "title": "Manage groups",
-                    "id": 59
+                    "id": 76
                 }
             ],
             "isArchive": false,
@@ -188,7 +223,7 @@
                 {
                     "url": "about:newtab",
                     "title": "New Tab",
-                    "id": 36
+                    "id": 38
                 }
             ],
             "isArchive": false,
@@ -220,52 +255,52 @@
                 {
                     "url": "https://bootlin.com/doc/legacy/android/lab-solutions/jni/frameworks/",
                     "title": "Bootlin – Embedded Linux and kernel engineering",
-                    "id": 26
-                },
-                {
-                    "url": "https://inside-docupedia.bosch.com/confluence/display/AIVI/CCS2+developer+sync+instructions",
-                    "title": "CCS2 developer sync instructions - A-IVI - Docupedia",
                     "id": 27
                 },
                 {
-                    "url": "https://inside-docupedia.bosch.com/confluence/display/AIVI/CCS2+developer+sync+instructions#ccs2_qpr3_a12_int(ActiveMainline)",
+                    "url": "https://inside-docupedia.bosch.com/confluence/display/AIVI/CCS2+developer+sync+instructions",
                     "title": "CCS2 developer sync instructions - A-IVI - Docupedia",
                     "id": 28
                 },
                 {
+                    "url": "https://inside-docupedia.bosch.com/confluence/display/AIVI/CCS2+developer+sync+instructions#ccs2_qpr3_a12_int(ActiveMainline)",
+                    "title": "CCS2 developer sync instructions - A-IVI - Docupedia",
+                    "id": 29
+                },
+                {
                     "url": "https://inside-docupedia.bosch.com/confluence/display/RCM/01_Android_Build_System",
                     "title": "01_Android_Build_System - BGSV Car Multimedia - Docupedia",
-                    "id": 29
+                    "id": 30
                 },
                 {
                     "url": "https://www.tutorialspoint.com/rust/rust_modules.htm",
                     "title": "Rust - Modules",
-                    "id": 30
+                    "id": 31
                 },
                 {
                     "url": "https://www.tutorialspoint.com/compile_rust_online.php",
                     "title": "Online Rust Compiler - rust",
-                    "id": 31
+                    "id": 32
                 },
                 {
                     "url": "https://inside-docupedia.bosch.com/confluence/display/AIVI/CCS2+developer+sync+instructions",
                     "title": "CCS2 developer sync instructions - A-IVI - Docupedia",
-                    "id": 32
+                    "id": 33
                 },
                 {
                     "url": "https://actorsfit.com/a?ID=00400-67c10ce1-e18e-4e5e-a44e-68bde4dca147",
                     "title": "Detailed explanation of the data structure JNINativeMethod used by Android JNI to dynamically register JNI - actorsfit",
-                    "id": 33
+                    "id": 34
                 },
                 {
                     "url": "https://www.tutorialspoint.com/cplusplus/cpp_references.htm",
                     "title": "C++ References | Tutorialspoint",
-                    "id": 34
+                    "id": 35
                 },
                 {
                     "url": "https://www3.ntu.edu.sg/home/ehchua/programming/java/javanativeinterface.html",
                     "title": "Java Native Interface (JNI) - Java Programming Tutorial",
-                    "id": 35
+                    "id": 36
                 }
             ],
             "isArchive": false,
@@ -445,7 +480,7 @@
         "reload-all-tabs"
     ],
     "autoBackupEnable": true,
-    "autoBackupLastBackupTimeStamp": 1690762125,
+    "autoBackupLastBackupTimeStamp": 1690935507,
     "autoBackupIntervalKey": "days",
     "autoBackupIntervalValue": 1,
     "autoBackupIncludeTabThumbnails": true,
