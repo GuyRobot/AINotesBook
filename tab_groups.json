@@ -9,8 +9,13 @@
             "iconViewType": "main-squares",
             "tabs": [
                 {
-                    "url": "https://colab.research.google.com/github/GuyRobot/AINotesBook/blob/main/MyBART.ipynb#scrollTo=NPyW6RDjiIFs",
-                    "title": "MyBART.ipynb - Colaboratory",
+                    "url": "https://colab.research.google.com/github/GuyRobot/AINotesBook/blob/main/Crawler.ipynb#scrollTo=HaEWNbIJnhSV",
+                    "title": "Crawler.ipynb - Colaboratory",
+                    "id": 1
+                },
+                {
+                    "url": "https://www.kaggle.com/nguyentrungtam/mybart/edit",
+                    "title": "MyBART | Kaggle",
                     "id": 2
                 },
                 {
@@ -59,58 +64,58 @@
                     "id": 11
                 },
                 {
-                    "url": "https://wandb.ai/authorize",
-                    "title": "Weights & Biases",
-                    "id": 12
-                },
-                {
                     "url": "https://duarteocarmo.com/blog/fine-tune-flan-t5-telegram",
                     "title": "Fine-tuning FLAN-T5 to replace my friends - Duarte O.Carmo",
-                    "id": 13
+                    "id": 12
                 },
                 {
                     "url": "https://www.thepythoncode.com/article/conversational-ai-chatbot-with-huggingface-transformers-in-python",
                     "title": "💤 Conversational AI Chatbot with Transformers in Python - Python Code",
-                    "id": 14
+                    "id": 13
                 },
                 {
                     "url": "https://huggingface.co/databricks/dolly-v2-12b",
                     "title": "databricks/dolly-v2-12b · Hugging Face",
-                    "id": 15
+                    "id": 14
                 },
                 {
                     "url": "https://huggingface.co/satvikag/chatbot?text=Hi.",
                     "title": "satvikag/chatbot · Hugging Face",
-                    "id": 16
+                    "id": 15
                 },
                 {
                     "url": "https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/summarization-tf.ipynb",
                     "title": "Summarization - Colaboratory",
-                    "id": 17
+                    "id": 16
                 },
                 {
                     "url": "https://github.com/huggingface/transformers/blob/main/examples/pytorch/summarization/README.md",
                     "title": "💤 transformers/examples/pytorch/summarization/README.md at main · huggingface/transformers",
-                    "id": 18
+                    "id": 17
                 },
                 {
                     "url": "https://huggingface.co/learn/nlp-course/chapter7/5?fw=pt#summarization",
                     "title": "Summarization - Hugging Face NLP Course",
-                    "id": 19
+                    "id": 18
                 },
                 {
                     "url": "https://huggingface.co/docs/transformers/model_doc/bart",
                     "title": "💤 BART",
-                    "id": 20
+                    "id": 19
                 },
                 {
                     "url": "https://huggingface.co/models?pipeline_tag=conversational&sort=trending",
                     "title": "💤 Models - Hugging Face",
-                    "id": 21
+                    "id": 20
                 },
                 {
                     "url": "https://huggingface.co/transformers/v2.11.0/model_doc/bart.html#paper",
                     "title": "💤 Bart — transformers 2.11.0 documentation",
+                    "id": 21
+                },
+                {
+                    "url": "https://huggingface.co/blog/how-to-train",
+                    "title": "💤 How to train a new language model from scratch using Transformers and Tokenizers",
                     "id": 22
                 },
                 {
@@ -121,77 +126,72 @@
                 {
                     "url": "https://dagshub.com/kingabzpro/DailoGPT-RickBot/src/main/Training%20Model.ipynb",
                     "title": "💤 kingabzpro/DailoGPT-RickBot | DagsHub",
-                    "id": 62
+                    "id": 24
                 },
                 {
                     "url": "https://github.com/rushic24/DialoGPT-Finetune",
                     "title": "💤 rushic24/DialoGPT-Finetune: Covid Doctor chatbot using DialoGPT",
-                    "id": 60
+                    "id": 25
                 },
                 {
                     "url": "https://www.kaggle.com/code/pinooxd/dialogpt",
                     "title": "💤 DialoGPT | Kaggle",
-                    "id": 61
+                    "id": 26
                 },
                 {
                     "url": "https://github.com/ncoop57/i-am-a-nerd/blob/master/_notebooks/2020-05-12-chatbot-part-1.ipynb",
                     "title": "💤 i-am-a-nerd/_notebooks/2020-05-12-chatbot-part-1.ipynb at master · ncoop57/i-am-a-nerd · GitHub",
-                    "id": 25
+                    "id": 27
                 },
                 {
                     "url": "https://towardsdatascience.com/teaching-bart-to-rap-fine-tuning-hugging-faces-bart-model-41749d38f3ef",
                     "title": "💤 Teaching BART to Rap: Fine-tuning Hugging Face’s BART Model | by Neil Sinclair | Towards Data Science",
-                    "id": 26
+                    "id": 28
                 },
                 {
-                    "url": "https://github.com/GuyRobot/AINotesBook/edit/main/tab_groups.json",
-                    "title": "Editing AINotesBook/tab_groups.json at main · GuyRobot/AINotesBook",
-                    "id": 37
-                },
-                {
-                    "url": "https://guyrobot-super-duper-memory-jq6777qpq6xhpjpj.github.dev/",
-                    "title": "💤 EHealthChatDataset.json - AINotesBook [Codespaces] - Visual Studio Code",
-                    "id": 1
-                },
-                {
-                    "url": "https://justdoc.com/question/Chest-pain-reappears-when-stopped-Levocet",
-                    "title": "Levocetirizine For Chest Congestion - JustDoc",
+                    "url": "https://github.com/GuyRobot/AINotesBook/blob/main/tab_groups.json",
+                    "title": "💤 AINotesBook/tab_groups.json at main · GuyRobot/AINotesBook",
                     "id": 39
                 },
                 {
-                    "url": "https://www.kaggle.com/datasets/cdc/chronic-disease",
-                    "title": "Search | Kaggle",
-                    "id": 66
+                    "url": "https://justdoc.com/question/Chest-pain-reappears-when-stopped-Levocet",
+                    "title": "💤 Levocetirizine For Chest Congestion - JustDoc",
+                    "id": 41
                 },
                 {
-                    "url": "https://huggingface.co/blog/how-to-train",
-                    "title": "How to train a new language model from scratch using Transformers and Tokenizers",
+                    "url": "https://www.kaggle.com/datasets/cdc/chronic-disease",
+                    "title": "Chronic Disease Indicators | Kaggle",
                     "id": 58
                 },
                 {
-                    "url": "https://huggingface.co/docs/transformers/main_classes/trainer",
-                    "title": "Trainer",
+                    "url": "https://forumhealth.com/blog/feeling-hangry-these-tips-will-help-keep-your-blood-sugar-in-check/",
+                    "title": "💤 Feeling Hangry? These Tips Will Help Keep Your Blood Sugar in Check - Forum Health",
                     "id": 59
                 },
                 {
-                    "url": "https://forumhealth.com/blog/feeling-hangry-these-tips-will-help-keep-your-blood-sugar-in-check/",
-                    "title": "Feeling Hangry? These Tips Will Help Keep Your Blood Sugar in Check - Forum Health",
-                    "id": 73
-                },
-                {
                     "url": "https://www.medhelp.org/forums/Diabetes-Type-1/show/220",
-                    "title": "Diabetes - Type 1 Help - Forums and Discussions - MedHelp",
-                    "id": 74
+                    "title": "💤 Diabetes - Type 1 Help - Forums and Discussions - MedHelp",
+                    "id": 60
                 },
                 {
                     "url": "https://patient.info/forums/discuss/browse/allergic-disorders-219",
-                    "title": "Allergic Disorders | Allergies | Forums | Patient",
-                    "id": 75
+                    "title": "💤 Allergic Disorders | Allergies | Forums | Patient",
+                    "id": 61
+                },
+                {
+                    "url": "https://www.kaggle.com/code/tanlikesmath/the-ultimate-pytorch-tpu-tutorial-jigsaw-xlm-r",
+                    "title": "The Ultimate PyTorch+TPU Tutorial (Jigsaw XLM-R)🔥 | Kaggle",
+                    "id": 80
+                },
+                {
+                    "url": "https://render.com/docs/deploy-flask",
+                    "title": "Deploy a Flask App | Render · Cloud Hosting for Developers",
+                    "id": 84
                 },
                 {
                     "url": "moz-extension://b155d803-17aa-402f-8326-b62e5cfe9f0e/options/options.html",
                     "title": "Settings",
-                    "id": 76
+                    "id": 85
                 }
             ],
             "isArchive": false,
@@ -221,9 +221,9 @@
             "iconViewType": "main-squares",
             "tabs": [
                 {
-                    "url": "about:newtab",
-                    "title": "New Tab",
-                    "id": 38
+                    "url": "https://shopee.vn/C%E1%BB%91c-qu%E1%BA%A3-t%C3%A1o-c%C3%B3-n%E1%BA%AFp-Vi%E1%BB%87t-Nh%E1%BA%ADt-xinh-x%E1%BA%AFn-C%E1%BB%91c-%C4%91%E1%BB%B1ng-%C4%91%E1%BB%93-%C4%83n-v%E1%BA%B7t-h%C6%B0%E1%BB%9Bng-d%C6%B0%C6%A1ng-h%C3%ACnh-qu%E1%BA%A3-t%C3%A1o(MS-6018)-Br01692-i.435072980.20052960560?sp_atk=b4cf463c-1b94-43a4-940b-f38d0acb0f3e&xptdk=b4cf463c-1b94-43a4-940b-f38d0acb0f3e",
+                    "title": "💤 Cốc quả táo có nắp Việt Nhật xinh xắn - Cốc đựng đồ ăn vặt , hướng dương hình quả táo(MS:6018) Br01692 | Shopee Việt Nam",
+                    "id": 40
                 }
             ],
             "isArchive": false,
@@ -255,52 +255,52 @@
                 {
                     "url": "https://bootlin.com/doc/legacy/android/lab-solutions/jni/frameworks/",
                     "title": "Bootlin – Embedded Linux and kernel engineering",
-                    "id": 27
+                    "id": 29
                 },
                 {
                     "url": "https://inside-docupedia.bosch.com/confluence/display/AIVI/CCS2+developer+sync+instructions",
                     "title": "CCS2 developer sync instructions - A-IVI - Docupedia",
-                    "id": 28
+                    "id": 30
                 },
                 {
                     "url": "https://inside-docupedia.bosch.com/confluence/display/AIVI/CCS2+developer+sync+instructions#ccs2_qpr3_a12_int(ActiveMainline)",
                     "title": "CCS2 developer sync instructions - A-IVI - Docupedia",
-                    "id": 29
+                    "id": 31
                 },
                 {
                     "url": "https://inside-docupedia.bosch.com/confluence/display/RCM/01_Android_Build_System",
                     "title": "01_Android_Build_System - BGSV Car Multimedia - Docupedia",
-                    "id": 30
+                    "id": 32
                 },
                 {
                     "url": "https://www.tutorialspoint.com/rust/rust_modules.htm",
                     "title": "Rust - Modules",
-                    "id": 31
+                    "id": 33
                 },
                 {
                     "url": "https://www.tutorialspoint.com/compile_rust_online.php",
                     "title": "Online Rust Compiler - rust",
-                    "id": 32
+                    "id": 34
                 },
                 {
                     "url": "https://inside-docupedia.bosch.com/confluence/display/AIVI/CCS2+developer+sync+instructions",
                     "title": "CCS2 developer sync instructions - A-IVI - Docupedia",
-                    "id": 33
+                    "id": 35
                 },
                 {
                     "url": "https://actorsfit.com/a?ID=00400-67c10ce1-e18e-4e5e-a44e-68bde4dca147",
                     "title": "Detailed explanation of the data structure JNINativeMethod used by Android JNI to dynamically register JNI - actorsfit",
-                    "id": 34
+                    "id": 36
                 },
                 {
                     "url": "https://www.tutorialspoint.com/cplusplus/cpp_references.htm",
                     "title": "C++ References | Tutorialspoint",
-                    "id": 35
+                    "id": 37
                 },
                 {
                     "url": "https://www3.ntu.edu.sg/home/ehchua/programming/java/javanativeinterface.html",
                     "title": "Java Native Interface (JNI) - Java Programming Tutorial",
-                    "id": 36
+                    "id": 38
                 }
             ],
             "isArchive": false,
@@ -332,92 +332,199 @@
                 {
                     "url": "https://github.com/tadeephuy/ViMQ/tree/main/data",
                     "title": "💤 ViMQ/data at main · tadeephuy/ViMQ",
-                    "id": 40
+                    "id": 42
                 },
                 {
                     "url": "https://healthdata.gov/browse?limitTo=datasets&sortBy=newest&utf8=%E2%9C%93",
                     "title": "💤 Results matching type of Datasets | Page 1 of 6 | HealthData.gov",
-                    "id": 41
+                    "id": 43
                 },
                 {
                     "url": "https://odsc.medium.com/15-open-datasets-for-healthcare-830b19980d9",
                     "title": "💤 15 Open Datasets for Healthcare. Machine Learning is exploding into the… | by ODSC - Open Data Science | Medium",
-                    "id": 42
+                    "id": 44
                 },
                 {
                     "url": "https://www.nhsinform.scot/illnesses-and-conditions/a-to-z",
                     "title": "💤 A to Z list of common illnesses and conditions | NHS inform",
-                    "id": 43
+                    "id": 45
                 },
                 {
                     "url": "https://www.medicinenet.com/medterms-medical-dictionary/article.htm",
                     "title": "💤 Medical Terms: Medical dictionary, Medical Definitions & Medical Terminology",
-                    "id": 44
+                    "id": 46
                 },
                 {
                     "url": "https://github.com/sebischair/medical-abstracts-tc-corpus",
                     "title": "💤 sebischair/Medical-Abstracts-TC-Corpus: This repository contains a medical abstracts dataset, describing 5 different classes of patient conditions. The dataset can be used for text classification.",
-                    "id": 45
+                    "id": 47
                 },
                 {
-                    "url": "https://www.kaggle.com/datasets?search=dialog&page=2",
-                    "title": "💤 Find Open Datasets and Machine Learning Projects | Kaggle",
-                    "id": 46
+                    "url": "https://www.kaggle.com/datasets?search=med",
+                    "title": "Find Open Datasets and Machine Learning Projects | Kaggle",
+                    "id": 48
                 },
                 {
                     "url": "https://huggingface.co/datasets/medical_dialog",
                     "title": "💤 medical_dialog · Datasets at Hugging Face",
-                    "id": 47
+                    "id": 49
                 },
                 {
                     "url": "https://github.com/UCSD-AI4H/Medical-Dialogue-System",
                     "title": "💤 UCSD-AI4H/Medical-Dialogue-System",
-                    "id": 48
+                    "id": 50
                 },
                 {
                     "url": "https://dl.acm.org/doi/abs/10.1007/978-3-031-17120-8_35",
                     "title": "💤 MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation | Natural Language Processing and Chinese Computing",
-                    "id": 49
+                    "id": 51
                 },
                 {
                     "url": "https://kili-technology.com/data-labeling/machine-learning/24-best-machine-learning-datasets-for-chatbot-training",
                     "title": "💤 24 Best Machine Learning Datasets for Chatbot Training",
-                    "id": 50
+                    "id": 52
                 },
                 {
                     "url": "https://www.quora.com/Im-going-to-build-a-medical-chatbot-where-can-I-find-dataset",
                     "title": "💤 I'm going to build a medical chatbot, where can I find dataset? - Quora",
-                    "id": 51
+                    "id": 53
                 },
                 {
                     "url": "https://www.shaip.com/resources/sample-datasets/",
-                    "title": "Sample Datasets For Chatbots | Healthcare | Conversations AI - Shaip",
-                    "id": 52
+                    "title": "💤 Sample Datasets For Chatbots | Healthcare | Conversations AI - Shaip",
+                    "id": 54
                 },
                 {
                     "url": "https://www.kaggle.com/code/rohitadnaik/healthcare-chatbot/input?select=Training.csv",
                     "title": "healthcare chatbot | Kaggle",
-                    "id": 53
-                },
-                {
-                    "url": "https://www.kaggle.com/datasets/rohitadnaik/chatbot-symptom-description",
-                    "title": "chatbot_symptom_Description | Kaggle",
-                    "id": 54
-                },
-                {
-                    "url": "https://github.com/amberkakkar01/Health-Care-Chatbot",
-                    "title": "amberkakkar01/Health-Care-Chatbot: It is a medical chatbot that will provide quick answers to FAQs by setting up rule-based keyword chatbots.",
                     "id": 55
                 },
                 {
-                    "url": "https://github.com/Medic-Bot-India/rasaModel",
-                    "title": "💤 Medic-Bot-India/rasaModel",
+                    "url": "https://www.kaggle.com/datasets/rohitadnaik/chatbot-symptom-description",
+                    "title": "💤 chatbot_symptom_Description | Kaggle",
                     "id": 56
                 },
                 {
                     "url": "https://github.com/LiuQL2/MedicalChatbot",
-                    "title": "LiuQL2/MedicalChatbot: Medical-domain Dialogue System for Diseases Identification",
+                    "title": "💤 LiuQL2/MedicalChatbot: Medical-domain Dialogue System for Diseases Identification",
                     "id": 57
+                },
+                {
+                    "url": "https://www.kaggle.com/datasets/hrezaeiyork/meddialogue?select=icliniq_dialogue.txt",
+                    "title": "💤 MedDialog | Kaggle",
+                    "id": 68
+                },
+                {
+                    "url": "https://www.geeksforgeeks.org/convert-text-file-to-json-in-python/",
+                    "title": "💤 Convert Text file to JSON in Python - GeeksforGeeks",
+                    "id": 69
+                },
+                {
+                    "url": "https://github.com/UCSD-AI4H/Medical-Dialogue-System",
+                    "title": "💤 UCSD-AI4H/Medical-Dialogue-System",
+                    "id": 70
+                },
+                {
+                    "url": "https://www.healthcaremagic.com/premiumquestions/335520",
+                    "title": "Premium Question Home page",
+                    "id": 71
+                },
+                {
+                    "url": "https://www.healthcaremagic.com/premiumquestions/What-can-be-done-after-accidentally-taking-a-high-dose-of-behada-and-trikatu-churna/337396",
+                    "title": "What Can Be Done After Accidentally Taking A High Dose Of Behada And Trikatu Churna?",
+                    "id": 72
+                },
+                {
+                    "url": "https://www.healthcaremagic.com/",
+                    "title": "💤 HealthCareMagic | Online Doctor Consultation Clinic | Online Doctor Appointment 24x7",
+                    "id": 73
+                },
+                {
+                    "url": "https://realpython.com/python-web-scraping-practical-introduction/",
+                    "title": "💤 A Practical Introduction to Web Scraping in Python – Real Python",
+                    "id": 74
+                },
+                {
+                    "url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",
+                    "title": "Beautiful Soup Documentation — Beautiful Soup 4.12.0 documentation",
+                    "id": 75
+                },
+                {
+                    "url": "https://colab.research.google.com/github/GuyRobot/AINotesBook/blob/main/Crawler.ipynb#scrollTo=nbA04C6TBbYA",
+                    "title": "Crawler.ipynb - Colaboratory",
+                    "id": 76
+                },
+                {
+                    "url": "https://github.com/GuyRobot/Notes/blob/main/Note.md",
+                    "title": "Notes/Note.md at main · GuyRobot/Notes",
+                    "id": 77
+                },
+                {
+                    "url": "https://www.healthcaremagic.com/premiumquestions/What-can-be-done-after-accidentally-taking-a-high-dose-of-behada-and-trikatu-churna/337396",
+                    "title": "What Can Be Done After Accidentally Taking A High Dose Of Behada And Trikatu Churna?",
+                    "id": 78
+                },
+                {
+                    "url": "https://guyrobot-super-duper-memory-jq6777qpq6xhpjpj.github.dev/?autoStart=false",
+                    "title": "https://guyrobot-super-duper-memory-jq6777qpq6xhpjpj.github.dev/?autoStart=false",
+                    "id": 79
+                }
+            ],
+            "isArchive": false,
+            "discardTabsAfterHide": false,
+            "discardExcludeAudioTabs": false,
+            "prependTitleToWindow": false,
+            "exportToBookmarksWhenAutoBackup": true,
+            "leaveBookmarksOfClosedTabs": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToGroupIfNoneCatchTabRules": null,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "showOnlyActiveTabAfterMovingItIntoThisGroup": false,
+            "showNotificationAfterMovingTabIntoThisGroup": true,
+            "bookmarkId": null
+        },
+        {
+            "id": 5,
+            "title": "Chatbot",
+            "iconColor": "hsla(30, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "https://github.com/itachi9604/healthcare-chatbot",
+                    "title": "itachi9604/healthcare-chatbot: a chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.",
+                    "id": 62
+                },
+                {
+                    "url": "https://github.com/aryanveturekar/Health-Care-Chat-Bot/blob/master/QuestionDiagonosisTkinter.py",
+                    "title": "Health-Care-Chat-Bot/QuestionDiagonosisTkinter.py at master · aryanveturekar/Health-Care-Chat-Bot",
+                    "id": 63
+                },
+                {
+                    "url": "https://github.com/Durgesh63/HealthCare_ChatBot",
+                    "title": "Durgesh63/HealthCare_ChatBot: The Chatbot (HealthBot) will try to solve or provide an answer to health-related issues or queries that the user is asking for. We are implementing NLP and ML to improve the efficiency of the chatbot. Tkinter is used as a frontend, and we are creating a desktop application with the help of Tkinter.",
+                    "id": 64
+                },
+                {
+                    "url": "https://github.com/topics/ai-healthcare-chatbot",
+                    "title": "💤 ai-healthcare-chatbot · GitHub Topics",
+                    "id": 65
+                },
+                {
+                    "url": "https://github.com/Medic-Bot-India/rasaModel",
+                    "title": "💤 Medic-Bot-India/rasaModel",
+                    "id": 66
+                },
+                {
+                    "url": "https://github.com/amberkakkar01/Health-Care-Chatbot",
+                    "title": "amberkakkar01/Health-Care-Chatbot: It is a medical chatbot that will provide quick answers to FAQs by setting up rule-based keyword chatbots.",
+                    "id": 67
                 }
             ],
             "isArchive": false,
@@ -440,7 +547,7 @@
             "bookmarkId": null
         }
     ],
-    "lastCreatedGroupPosition": 4,
+    "lastCreatedGroupPosition": 5,
     "defaultGroupProps": {},
     "closePopupAfterChangeGroup": true,
     "closePopupAfterSelectTab": false,
@@ -480,12 +587,12 @@
         "reload-all-tabs"
     ],
     "autoBackupEnable": true,
-    "autoBackupLastBackupTimeStamp": 1690935507,
+    "autoBackupLastBackupTimeStamp": 1691474983,
     "autoBackupIntervalKey": "days",
     "autoBackupIntervalValue": 1,
     "autoBackupIncludeTabThumbnails": true,
     "autoBackupIncludeTabFavIcons": true,
-    "autoBackupFolderName": "STG-backups-FF-115.0.2",
+    "autoBackupFolderName": "STG-backups-FF-116.0",
     "autoBackupByDayIndex": true,
     "theme": "auto",
     "hotkeys": [
